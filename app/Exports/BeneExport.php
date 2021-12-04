@@ -12,7 +12,7 @@ class BeneExport implements FromCollection, WithHeadings
      protected $header;
      function __construct($data, $header) {
             $this->data = $data; 
-            $this->header = $header;
+            $this->header = $header; 
      }
     public function collection()
     {

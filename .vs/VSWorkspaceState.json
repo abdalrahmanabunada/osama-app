@@ -1,0 +1,18 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\app\\Exports",
+    "\\app\\Http",
+    "\\app\\Http\\Controllers",
+    "\\database",
+    "\\database\\migrations",
+    "\\resources",
+    "\\resources\\views",
+    "\\resources\\views\\cp",
+    "\\resources\\views\\cp\\client",
+    "\\resources\\views\\cp\\client\\beneficiary"
+  ],
+  "SelectedNode": "\\database\\migrations\\2021_10_15_110833_create_beneficiary_table.php",
+  "PreviewInSolutionExplorer": false
+}
